@@ -1,0 +1,85 @@
+*** Creating Trace Output File '..\Output_App\Analyzer_Application.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output_app\core_cm3.o"'
+### List of Objects: adding '"..\output_app\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\output_app\system_stm32f10x.o"'
+### List of Objects: adding '"..\output_app\misc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_adc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_can.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_cec.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_crc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_dac.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_dma.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_exti.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_flash.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_fsmc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_i2c.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_iwdg.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_sdio.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_spi.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_tim.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_usart.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_wwdg.o"'
+### List of Objects: adding '"..\output_app\main.o"'
+### List of Objects: adding '"..\output_app\stm32f10x_it.o"'
+### List of Objects: adding '"..\output_app\rotationmotor.o"'
+### List of Objects: adding '"..\output_app\displaydriver.o"'
+### List of Objects: adding '"..\output_app\displaydriver_fontlib.o"'
+### List of Objects: adding '"..\output_app\font.o"'
+### List of Objects: adding '"..\output_app\humaninput.o"'
+### List of Objects: adding '"..\output_app\interface_main.o"'
+### List of Objects: adding '"..\output_app\interface_standard.o"'
+### List of Objects: adding '"..\output_app\interface_quick.o"'
+### List of Objects: adding '"..\output_app\interface_record.o"'
+### List of Objects: adding '"..\output_app\interface_setting.o"'
+### List of Objects: adding '"..\output_app\interface_result.o"'
+### List of Objects: adding '"..\output_app\interface_start.o"'
+### List of Objects: adding '"..\output_app\interface_testing.o"'
+### List of Objects: adding '"..\output_app\scanmotordriver.o"'
+### List of Objects: adding '"..\output_app\scanmotordriver_positionsensor.o"'
+### List of Objects: adding '"..\output_app\rotationmotordriver_positionsensor.o"'
+### List of Objects: adding '"..\output_app\common.o"'
+### List of Objects: adding '"..\output_app\qrcode.o"'
+### List of Objects: adding '"..\output_app\systemmanage_rtc.o"'
+### List of Objects: adding '"..\output_app\signalprocess_sample.o"'
+### List of Objects: adding '"..\output_app\interface_result_2.o"'
+### List of Objects: adding '"..\output_app\interface_insert_cup.o"'
+### List of Objects: adding '"..\output_app\comm_fifo.o"'
+### List of Objects: adding '"..\output_app\hw_config.o"'
+### List of Objects: adding '"..\output_app\usb_desc.o"'
+### List of Objects: adding '"..\output_app\usb_endp.o"'
+### List of Objects: adding '"..\output_app\usb_istr.o"'
+### List of Objects: adding '"..\output_app\usb_it.o"'
+### List of Objects: adding '"..\output_app\usb_prop.o"'
+### List of Objects: adding '"..\output_app\usb_pwr.o"'
+### List of Objects: adding '"..\output_app\stmflash.o"'
+### List of Objects: adding '"..\output_app\usb.o"'
+### List of Objects: adding '"..\output_app\hostcomm.o"'
+### List of Objects: adding '"..\output_app\usb_core.o"'
+### List of Objects: adding '"..\output_app\usb_init.o"'
+### List of Objects: adding '"..\output_app\usb_int.o"'
+### List of Objects: adding '"..\output_app\usb_mem.o"'
+### List of Objects: adding '"..\output_app\usb_regs.o"'
+### List of Objects: adding '"..\output_app\usb_sil.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output_app\core_cm3.o" "..\output_app\startup_stm32f10x_hd.o" "..\output_app\system_stm32f10x.o" "..\output_app\misc.o" "..\output_app\stm32f10x_adc.o" "..\output_app\stm32f10x_bkp.o" "..\output_app\stm32f10x_can.o" "..\output_app\stm32f10x_cec.o" "..\output_app\stm32f10x_crc.o" "..\output_app\stm32f10x_dac.o" "..\output_app\stm32f10x_dbgmcu.o" "..\output_app\stm32f10x_dma.o" "..\output_app\stm32f10x_exti.o" "..\output_app\stm32f10x_flash.o" "..\output_app\stm32f10x_fsmc.o" "..\output_app\stm32f10x_gpio.o" "..\output_app\stm32f10x_i2c.o" "..\output_app\stm32f10x_iwdg.o" "..\output_app\stm32f10x_pwr.o" "..\output_app\stm32f10x_rcc.o" "..\output_app\stm32f10x_rtc.o" "..\output_app\stm32f10x_sdio.o" "..\output_app\stm32f10x_spi.o" "..\output_app\stm32f10x_tim.o" "..\output_app\stm32f10x_usart.o" "..\output_app\stm32f10x_wwdg.o" "..\output_app\main.o" "..\output_app\stm32f10x_it.o" "..\output_app\rotationmotor.o" "..\output_app\displaydriver.o" "..\output_app\displaydriver_fontlib.o" "..\output_app\font.o" "..\output_app\humaninput.o" "..\output_app\interface_main.o" "..\output_app\interface_standard.o" "..\output_app\interface_quick.o" "..\output_app\interface_record.o" "..\output_app\interface_setting.o" "..\output_app\interface_result.o" "..\output_app\interface_start.o" "..\output_app\interface_testing.o" "..\output_app\scanmotordriver.o" "..\output_app\scanmotordriver_positionsensor.o" "..\output_app\rotationmotordriver_positionsensor.o" "..\output_app\common.o" "..\output_app\qrcode.o" "..\output_app\systemmanage_rtc.o" "..\output_app\signalprocess_sample.o" "..\output_app\interface_result_2.o" "..\output_app\interface_insert_cup.o" "..\output_app\comm_fifo.o" "..\output_app\hw_config.o" "..\output_app\usb_desc.o" "..\output_app\usb_endp.o" "..\output_app\usb_istr.o" "..\output_app\usb_it.o" "..\output_app\usb_prop.o" "..\output_app\usb_pwr.o" "..\output_app\stmflash.o" "..\output_app\usb.o" "..\output_app\hostcomm.o" "..\output_app\usb_core.o" "..\output_app\usb_init.o" "..\output_app\usb_int.o" "..\output_app\usb_mem.o" "..\output_app\usb_regs.o" "..\output_app\usb_sil.o" --library_type=microlib --strict --scatter "..\Output_App\Analyzer_Application.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Output_App\Analyzer_Application.map" -o ..\Output_App\Analyzer_Application.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output_App\Analyzer_Application.axf'
+### ADS-LD Command File: '..\Output_App\Analyzer_Application.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output_App\Analyzer_Application.lnp', Handle=0x00002284
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output_App\Analyzer_Application.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

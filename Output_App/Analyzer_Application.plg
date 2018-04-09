@@ -1,0 +1,2030 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\S100\Firmware_work\Firmware\Analyzer_Application\Analyzer_Application.uvproj
+Project File Date:  03/20/2018
+
+<h2>Output:</h2>
+Build target 'Analyzer_Application'
+linking...
+Program Size: Code=22704 RO-data=83608 RW-data=4724 ZI-data=19984  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for main.c...
+compiling main.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23024 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.337V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23028 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.332V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for main.c...
+compiling main.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23028 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.390V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for main.c...
+compiling main.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23000 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.383V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for main.c...
+compiling main.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23028 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+..\Output_App\Analyzer_Application.axf: Error: L6218E: Undefined symbol CAN_POSSEN_INT_STATE (referred from signalprocess_sample.o).
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23048 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.329V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23044 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.345V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.343V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.353V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+compiling Interface_Quick.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+creating preprocessor file for Interface_Testing.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+compiling Interface_Testing.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+creating preprocessor file for ScanMotorDriver.c...
+Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+compiling ScanMotorDriver.c...
+Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+creating preprocessor file for SignalProcess_Sample.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+compiling SignalProcess_Sample.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+creating preprocessor file for HostComm.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+compiling HostComm.c...
+.\Management\ScanMotor\ScanMotorDriver.h(79): error:  #36: the #if for this directive is missing
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.345V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.354V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+***JLink Error: Could not read AHB-AP Id. Could not connect to target.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.351V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+***JLink Error: Can not read register 15 (R15) while CPU is running
+***JLink Error: Can not read register 20 (CFBP) while CPU is running
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23052 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.346V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23048 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.351V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Quick.c...
+compiling Interface_Quick.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+creating preprocessor file for HostComm.c...
+compiling HostComm.c...
+linking...
+Program Size: Code=23048 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(586): error:  #167: argument of type "uint16 *" is incompatible with parameter of type "uint8 *"
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(586): error:  #167: argument of type "uint16 (*)[10]" is incompatible with parameter of type "uint8 *"
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(26): error:  #147: declaration is incompatible with "uint16 SignalProcess_sampleBuffer[10]" (declared at line 128 of "Management\SignalProcess_Sample\SignalProcess_Sample.h")
+Management\SignalProcess_Sample\SignalProcess_Sample.c(584): error:  #167: argument of type "uint8 *" is incompatible with parameter of type "uint16 *"
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for Font.c...
+compiling Font.c...
+Management\DisplayDriver\Font.c(27): error:  #147-D: declaration is incompatible with "void DisplayDriver_Text16(unsigned int, unsigned int, unsigned int, u8 *)" (declared at line 15 of "Management\DisplayDriver\Font.h")
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(586): error:  #167: argument of type "uint16 *" is incompatible with parameter of type "u8 *"
+Target not created
+Build target 'Analyzer_Application'
+compiling Font.c...
+Management\DisplayDriver\Font.c(27): error:  #147-D: declaration is incompatible with "void DisplayDriver_Text16(unsigned int, unsigned int, unsigned int, u8 *)" (declared at line 15 of "Management\DisplayDriver\Font.h")
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(586): error:  #167: argument of type "uint16 *" is incompatible with parameter of type "u8 *"
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for Font.c...
+compiling Font.c...
+Management\DisplayDriver\Font.c(27): error:  #147-D: declaration is incompatible with "void DisplayDriver_Text16(unsigned int, unsigned int, unsigned int, u8 *)" (declared at line 15 of "Management\DisplayDriver\Font.h")
+compiling SignalProcess_Sample.c...
+Management\SignalProcess_Sample\SignalProcess_Sample.c(586): error:  #167: argument of type "uint16 *" is incompatible with parameter of type "u8 *"
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for Font.c...
+compiling Font.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23392 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.353V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+linking...
+Program Size: Code=23388 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+Management\Interface\Interface_Testing.c(61): error:  #167: argument of type "void" is incompatible with parameter of type "uint16"
+Management\Interface\Interface_Testing.c(106): error:  #20: identifier "SignalSample_count" is undefined
+Management\Interface\Interface_Testing.c(107): error:  #268: declaration may not appear after executable statement in block
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+creating preprocessor file for SignalProcess_Sample.c...
+compiling SignalProcess_Sample.c...
+Target not created
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23552 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23572 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for stm32f10x_it.c...
+compiling stm32f10x_it.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23592 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+linking...
+Program Size: Code=23592 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+linking...
+Program Size: Code=23592 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 14 code (BP) slots and 6 literal slots
+***JLink Error: Could not read DWT control register.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for main.c...
+compiling main.c...
+linking...
+Program Size: Code=23644 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.349V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for RotationMotor.c...
+compiling RotationMotor.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for ScanMotorDriver.c...
+compiling ScanMotorDriver.c...
+linking...
+Program Size: Code=23720 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23724 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23728 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23768 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.338V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23772 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.346V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23756 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.359V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23708 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+***JLink Error: Could not read DWT control register.
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.341V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+linking...
+Program Size: Code=23708 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+creating preprocessor file for Interface_Insert_Cup.c...
+compiling Interface_Insert_Cup.c...
+linking...
+Program Size: Code=23724 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.349V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Result.c...
+compiling Interface_Result.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4720 ZI-data=20036  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.353V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Result.c...
+compiling Interface_Result.c...
+creating preprocessor file for Interface_Result_2.c...
+compiling Interface_Result_2.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4720 ZI-data=20036  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.345V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for Interface_Result_2.c...
+compiling Interface_Result_2.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.345V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+creating preprocessor file for Interface_Result_2.c...
+compiling Interface_Result_2.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4724 ZI-data=20032  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.359V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Result_2.c...
+compiling Interface_Result_2.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4772 ZI-data=19984  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.345V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.348V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Result_2.c...
+compiling Interface_Result_2.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.354V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23712 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.349V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23744 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.348V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+creating preprocessor file for Interface_Insert_Cup.c...
+compiling Interface_Insert_Cup.c...
+linking...
+Program Size: Code=23740 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for HumanInput.c...
+compiling HumanInput.c...
+linking...
+Program Size: Code=23700 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.349V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23764 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.346V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23760 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.351V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+linking...
+Program Size: Code=23760 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23760 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.354V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Analyzer_Application'
+creating preprocessor file for Interface_Testing.c...
+compiling Interface_Testing.c...
+linking...
+Program Size: Code=23764 RO-data=83608 RW-data=4720 ZI-data=19988  
+FromELF: creating hex file...
+"..\Output_App\Analyzer_Application.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output_App\\Analyzer_Application.AXF" 
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+Set JLink Project File to "D:\S100\Firmware_work\Firmware\Analyzer_Application\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.40
+S/N : 59406364 
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.353V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 6000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
